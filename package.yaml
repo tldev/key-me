@@ -22,7 +22,8 @@ description:         Please see the README on GitHub at <https://github.com/gith
 dependencies:
 - base >= 4.7 && < 5
 - scotty
-- crypto-pubkey >= 0.2.8
+- cryptonite
+- text
 
 library:
   source-dirs: src
